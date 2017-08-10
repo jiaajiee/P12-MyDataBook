@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "380578357079",
+    "firebase_url": "https://ordinal-tower-173603.firebaseio.com",
+    "project_id": "ordinal-tower-173603",
+    "storage_bucket": "ordinal-tower-173603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380578357079:android:650c9e01d6cbb948",
+        "android_client_info": {
+          "package_name": "com.example.a15017274.p12_mydatabook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380578357079-q0gl9glkfombt1f34640ml2rnrqhsbmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOfbazhjEYNCey-9USHBZayKqBjJP3Y0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
